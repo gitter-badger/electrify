@@ -1,5 +1,7 @@
 # Electrify
 
+[![Join the chat at https://gitter.im/arboleya/electrify](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/arboleya/electrify?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Easily package your Meteor apps with Electron, and *butter*.
 
 > TL;DR - Check the DIY [demo](DEMO.md).
